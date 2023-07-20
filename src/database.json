@@ -1,0 +1,7 @@
+{
+  "server_name": "DESKTOP-F729IDL\\SQLEXPRESS01",
+  "socket_url": "ws://localhost:5000/Websocket",
+  "database": "UNIS",
+  "user_name": "francis",
+  "password": "1@Ab56ab56"
+}
